@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\readhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\readhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\comicgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\comicgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\chapterimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\chapterimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\baseenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\baseenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\.nuget\\packages\\epplus\\7.7.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 399,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\User.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\User.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:56:58.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadHistory.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ReadHistory.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\ReadHistory.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ReadHistory.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\ReadHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:56:52.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\Notification.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Notification.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:56:47.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Like.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\Like.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Like.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\Like.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:56:40.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Level.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\Level.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Level.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:56:34.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\Genre.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Genre.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:56:28.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Follow.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\Follow.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Follow.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:56:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\Comment.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comment.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:56:10.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComicGenre.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ComicGenre.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\ComicGenre.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ComicGenre.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\ComicGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:56:04.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comic.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comic.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\Comic.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comic.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\Comic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:55:58.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChapterImage.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ChapterImage.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\ChapterImage.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ChapterImage.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\ChapterImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:55:52.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chapter.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Chapter.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\Chapter.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Chapter.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\Chapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:55:45.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:54:20.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEnity.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\BaseEnity.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\BaseEnity.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\BaseEnity.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\BaseEnity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:55:39.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project_PRN222\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:55:24.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project_PRN222\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:55:20.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project_PRN222\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project_PRN222\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T08:55:14.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Advertisement.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Advertisement.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Models\\Advertisement.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Advertisement.cs",
+              "RelativeToolTip": "Project_PRN222\\Models\\Advertisement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:54:52.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\appsettings.json",
+              "RelativeDocumentMoniker": "Project_PRN222\\appsettings.json",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\appsettings.json",
+              "RelativeToolTip": "Project_PRN222\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T08:54:35.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\.nuget\\packages\\epplus\\7.7.0\\readme.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\.nuget\\packages\\epplus\\7.7.0\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-10T08:50:16.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
