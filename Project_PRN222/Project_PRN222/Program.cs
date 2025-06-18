@@ -1,3 +1,14 @@
+using CloudinaryDotNet;
+using Project_PRN222.Data;
+using Project_PRN222.Hubs;
+using Project_PRN222.Models;
+using Project_PRN222.Services;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.Google;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using OfficeOpenXml;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -17,9 +28,17 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.Use(async (context, next) =>
+{
+    if (context.Request.Path == "/signin-google" && context.Request.Query.ContainsKey("error"))
+    {
+        context.Response.Redirect("/");
+        return;
+    }
+    await next();
+});
+app.UseAuthentication();
 app.UseAuthorization();
-
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

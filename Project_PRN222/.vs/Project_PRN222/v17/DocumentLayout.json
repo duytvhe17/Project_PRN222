@@ -1,137 +1,161 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\",
+  "WorkspaceRootPath": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\viewcomponents\\recentnotificationsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewcomponents\\recentnotificationsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\views\\admin\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\admin\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\views\\admin\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\admin\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\views\\admin\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\admin\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\views\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\controllers\\admin\\usermanagement\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\controllers\\admin\\usermanagement\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\viewmodels\\management\\userindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewmodels\\management\\userindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\viewmodels\\management\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewmodels\\management\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\data\\dotnettruyendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\data\\dotnettruyendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\data\\dotnettruyendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\hubs\\comichub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\hubs\\comichub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\viewmodels\\management\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewmodels\\management\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\controllers\\admin\\usermanagement\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\controllers\\admin\\usermanagement\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\controllers\\admin\\rolemanagement\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\controllers\\admin\\rolemanagement\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\views\\admin\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\admin\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\views\\admin\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\admin\\roles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\views\\admin\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\admin\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\viewmodels\\management\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewmodels\\management\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\viewmodels\\management\\roleindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewmodels\\management\\roleindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\viewmodels\\management\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewmodels\\management\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\viewmodels\\management\\userindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewmodels\\management\\userindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\viewmodels\\management\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewmodels\\management\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\viewcomponents\\recentnotificationsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\viewcomponents\\recentnotificationsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\views\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\advertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\services\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\readhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\readhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\readhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\comicgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\comicgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\comicgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\comic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\chapterimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\chapterimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\chapterimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\models\\baseenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\models\\baseenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\models\\baseenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\project\\project_prn222\\project_prn222\\project_prn222\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|e:\\fpt\\semester8\\prn222\\check\\project_prn222\\project_prn222\\project_prn222\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4E79C6EC-DDFD-442B-B9A3-679930D60837}|Project_PRN222\\Project_PRN222.csproj|solutionrelative:project_prn222\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -149,193 +173,264 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Admin\\Roles\\Index.cshtml",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Index.cshtml",
-              "RelativeToolTip": "Project_PRN222\\Views\\Admin\\Roles\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T09:02:59.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Admin\\Roles\\Edit.cshtml",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Edit.cshtml",
-              "RelativeToolTip": "Project_PRN222\\Views\\Admin\\Roles\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T09:02:53.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Create.cshtml",
-              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Admin\\Roles\\Create.cshtml",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Create.cshtml",
-              "RelativeToolTip": "Project_PRN222\\Views\\Admin\\Roles\\Create.cshtml",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T09:02:37.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Project_PRN222\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T09:01:46.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Admin\\Users\\Index.cshtml",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Users\\Index.cshtml",
-              "RelativeToolTip": "Project_PRN222\\Views\\Admin\\Users\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-13T09:01:34.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RecentNotificationsViewComponent.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewComponents\\RecentNotificationsViewComponent.cs",
-              "RelativeDocumentMoniker": "Project_PRN222\\ViewComponents\\RecentNotificationsViewComponent.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewComponents\\RecentNotificationsViewComponent.cs",
-              "RelativeToolTip": "Project_PRN222\\ViewComponents\\RecentNotificationsViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T09:24:02.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserIndexViewModel.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\UserIndexViewModel.cs",
-              "RelativeDocumentMoniker": "Project_PRN222\\ViewModels\\Management\\UserIndexViewModel.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\UserIndexViewModel.cs",
-              "RelativeToolTip": "Project_PRN222\\ViewModels\\Management\\UserIndexViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T08:58:42.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "Project_PRN222\\ViewModels\\Management\\UserViewModel.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\UserViewModel.cs",
-              "RelativeToolTip": "Project_PRN222\\ViewModels\\Management\\UserViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T08:58:09.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\Admin\\UserManagement\\UsersController.cs",
-              "RelativeDocumentMoniker": "Project_PRN222\\Controllers\\Admin\\UserManagement\\UsersController.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\Admin\\UserManagement\\UsersController.cs",
-              "RelativeToolTip": "Project_PRN222\\Controllers\\Admin\\UserManagement\\UsersController.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAowBIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T06:14:09.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Project_PRN222\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Project_PRN222\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\Admin\\RoleManagement\\RolesController.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Controllers\\Admin\\RoleManagement\\RolesController.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\Admin\\RoleManagement\\RolesController.cs",
+              "RelativeToolTip": "Project_PRN222\\Controllers\\Admin\\RoleManagement\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T08:55:24.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OtpService.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Services\\OtpService.cs",
-              "RelativeDocumentMoniker": "Project_PRN222\\Services\\OtpService.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Services\\OtpService.cs",
-              "RelativeToolTip": "Project_PRN222\\Services\\OtpService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T08:56:00.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T09:15:41.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Project_PRN222\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Project_PRN222\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-10T08:55:20.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T08:55:20.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "Project_PRN222\\Services\\EmailService.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Services\\EmailService.cs",
-              "RelativeToolTip": "Project_PRN222\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Project_PRN222\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T09:01:46.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\Admin\\UserManagement\\UsersController.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Controllers\\Admin\\UserManagement\\UsersController.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\Admin\\UserManagement\\UsersController.cs",
+              "RelativeToolTip": "Project_PRN222\\Controllers\\Admin\\UserManagement\\UsersController.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAwwA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T08:55:05.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T06:14:09.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Program.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Program.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Program.cs",
+              "RelativeToolTip": "Project_PRN222\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:24:39.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DotNetTruyenDbContext.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Data\\DotNetTruyenDbContext.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Data\\DotNetTruyenDbContext.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Data\\DotNetTruyenDbContext.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Data\\DotNetTruyenDbContext.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Data\\DotNetTruyenDbContext.cs",
               "RelativeToolTip": "Project_PRN222\\Data\\DotNetTruyenDbContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wAYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T09:16:50.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComicHub.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Hubs\\ComicHub.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Hubs\\ComicHub.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Hubs\\ComicHub.cs",
+              "RelativeToolTip": "Project_PRN222\\Hubs\\ComicHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:24:33.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateRoleViewModel.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\CreateRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\ViewModels\\Management\\CreateRoleViewModel.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\CreateRoleViewModel.cs",
+              "RelativeToolTip": "Project_PRN222\\ViewModels\\Management\\CreateRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:18:13.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Admin\\Roles\\Index.cshtml",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Project_PRN222\\Views\\Admin\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T09:02:59.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Admin\\Roles\\Edit.cshtml",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Edit.cshtml",
+              "RelativeToolTip": "Project_PRN222\\Views\\Admin\\Roles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T09:02:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Admin\\Roles\\Create.cshtml",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Roles\\Create.cshtml",
+              "RelativeToolTip": "Project_PRN222\\Views\\Admin\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T09:02:37.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\ViewModels\\Management\\EditRoleViewModel.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\EditRoleViewModel.cs",
+              "RelativeToolTip": "Project_PRN222\\ViewModels\\Management\\EditRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:18:51.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoleIndexViewModel.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\RoleIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\ViewModels\\Management\\RoleIndexViewModel.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\RoleIndexViewModel.cs",
+              "RelativeToolTip": "Project_PRN222\\ViewModels\\Management\\RoleIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:17:46.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\ViewModels\\Management\\RoleViewModel.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\RoleViewModel.cs",
+              "RelativeToolTip": "Project_PRN222\\ViewModels\\Management\\RoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:17:10.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecentNotificationsViewComponent.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewComponents\\RecentNotificationsViewComponent.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\ViewComponents\\RecentNotificationsViewComponent.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewComponents\\RecentNotificationsViewComponent.cs",
+              "RelativeToolTip": "Project_PRN222\\ViewComponents\\RecentNotificationsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T09:24:02.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Services\\EmailService.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Services\\EmailService.cs",
+              "RelativeToolTip": "Project_PRN222\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:55:05.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\ViewModels\\Management\\UserViewModel.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\UserViewModel.cs",
+              "RelativeToolTip": "Project_PRN222\\ViewModels\\Management\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:58:09.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserIndexViewModel.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\UserIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\ViewModels\\Management\\UserIndexViewModel.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\ViewModels\\Management\\UserIndexViewModel.cs",
+              "RelativeToolTip": "Project_PRN222\\ViewModels\\Management\\UserIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:58:42.729Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_PRN222\\Views\\Admin\\Users\\Index.cshtml",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\Admin\\Users\\Index.cshtml",
+              "RelativeToolTip": "Project_PRN222\\Views\\Admin\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T09:01:34.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project_PRN222\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:55:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OtpService.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Services\\OtpService.cs",
+              "RelativeDocumentMoniker": "Project_PRN222\\Services\\OtpService.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Services\\OtpService.cs",
+              "RelativeToolTip": "Project_PRN222\\Services\\OtpService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:56:00.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "User.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\User.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\User.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\User.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\User.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\User.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -343,36 +438,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Advertisement.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Advertisement.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Advertisement.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\Advertisement.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Advertisement.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Advertisement.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\Advertisement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T08:54:52.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T08:54:52.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Program.cs",
-              "RelativeDocumentMoniker": "Project_PRN222\\Program.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Program.cs",
-              "RelativeToolTip": "Project_PRN222\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T09:24:39.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "ReadHistory.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ReadHistory.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ReadHistory.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\ReadHistory.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ReadHistory.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ReadHistory.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\ReadHistory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -380,11 +462,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Notification.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Notification.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\Notification.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Notification.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Notification.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -392,11 +474,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\appsettings.json",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\appsettings.json",
               "RelativeDocumentMoniker": "Project_PRN222\\appsettings.json",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\appsettings.json",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\appsettings.json",
               "RelativeToolTip": "Project_PRN222\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -404,11 +486,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Properties\\launchSettings.json",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Project_PRN222\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Properties\\launchSettings.json",
               "RelativeToolTip": "Project_PRN222\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -416,11 +498,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "Like.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Like.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Like.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\Like.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Like.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Like.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\Like.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,11 +510,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "Level.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Level.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Level.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\Level.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Level.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Level.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\Level.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,11 +522,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Genre.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Genre.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\Genre.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Genre.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Genre.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -452,11 +534,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "Follow.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Follow.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Follow.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\Follow.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Follow.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Follow.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\Follow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -464,11 +546,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Comment.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comment.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\Comment.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comment.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comment.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -476,11 +558,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "ComicGenre.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ComicGenre.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ComicGenre.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\ComicGenre.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ComicGenre.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ComicGenre.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\ComicGenre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -488,11 +570,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "Comic.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comic.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comic.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\Comic.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comic.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Comic.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\Comic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -500,11 +582,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "ChapterImage.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ChapterImage.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ChapterImage.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\ChapterImage.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ChapterImage.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ChapterImage.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\ChapterImage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -512,11 +594,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "Chapter.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Chapter.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Chapter.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\Chapter.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Chapter.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\Chapter.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\Chapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -524,11 +606,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\ErrorViewModel.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -536,11 +618,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "BaseEnity.cs",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\BaseEnity.cs",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\BaseEnity.cs",
               "RelativeDocumentMoniker": "Project_PRN222\\Models\\BaseEnity.cs",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\BaseEnity.cs",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Models\\BaseEnity.cs",
               "RelativeToolTip": "Project_PRN222\\Models\\BaseEnity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -548,11 +630,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Project_PRN222\\Views\\_ViewImports.cshtml",
-              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Project\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\FPT\\Semester8\\PRN222\\Check\\Project_PRN222\\Project_PRN222\\Project_PRN222\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Project_PRN222\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -560,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "readme.txt",
               "DocumentMoniker": "C:\\Users\\ADMIN\\.nuget\\packages\\epplus\\7.7.0\\readme.txt",
               "ToolTip": "C:\\Users\\ADMIN\\.nuget\\packages\\epplus\\7.7.0\\readme.txt",
